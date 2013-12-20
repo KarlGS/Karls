@@ -1,0 +1,9 @@
+Ari::Spiegler::P
+Ari::Spiegler::C
+Ari::Spiegler::1B
+Ari::Spiegler::2B
+Ari::Spiegler::3B
+Ari::Spiegler::SS
+Ari::Spiegler::RF
+Ari::Spiegler::CF
+Ari::Spiegler::LF

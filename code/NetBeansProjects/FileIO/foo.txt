@@ -1,0 +1,2 @@
+Eric Ward|123 Main Street|Hometown|OH|12345
+John Doe|45 Elm Street SW|Capital City|WY|55768

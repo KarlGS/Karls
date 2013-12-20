@@ -1,0 +1,9 @@
+Eric::Ward::SS
+Eric::Wise::RF
+Karl's::Roomatewiththehair::CF
+Doug::Computer::3B
+Mr. Jeff ::Rozner::P
+Ms. Nancy::Computer::C
+Mr.Preston::Labig::2B
+Dr.Karl::Schubert MD::1B
+Karl8::Schubert::LF

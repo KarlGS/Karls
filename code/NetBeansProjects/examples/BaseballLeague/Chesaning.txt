@@ -1,0 +1,9 @@
+Karl6::Schubert::SS
+Karl7::Schubert::RF
+Karl5::Schubert::3B
+Karl9::Schubert::CF
+Karl2::Schubert::C
+Karl4::Schubert::2B
+Karl3::Schubert::1B
+Troy::Computer::LF
+Karl::Schubert::P
